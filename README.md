@@ -4,4 +4,4 @@
 # Leveraged React and TypeScript to create dynamic, real-time stock price graphs from the server, enhancing UI/UX of client-side web apps
 
 
-# Done by Diksha Pandey
+# Diksha Pandey

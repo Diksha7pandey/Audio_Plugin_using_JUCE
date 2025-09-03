@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<FILTERGRAPH>
+<FILTERGRAPH> 
   <FILTER uid="1" x="0.5" y="0.1">
     <PLUGIN name="Audio Input" descriptiveName="" format="Internal" category="I/O devices"
             manufacturer="JUCE" version="1.0" file="" uid="246006c0" isInstrument="0"
